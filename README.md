@@ -28,7 +28,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O DevLinks é um agregador de links para usar como cartão de visitas online.
+O Dynamic login screen é uma tela de login básica desenvolvida com as tecnologias web fundamentais: HTML, CSS e JavaScript. Esta tela de login é uma solução leve e fácil de integrar para autenticar usuários em suas aplicações web. Ela oferece uma interface simples e amigável para que os usuários acessem seus sistemas com facilidade.
 
 ## 🔖 Layout
 
