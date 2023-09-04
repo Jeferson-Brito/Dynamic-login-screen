@@ -4,6 +4,7 @@
   <a href="#🚀-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#💻-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#🔖-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#🌐-preview-do-site">Preview do site</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">Licença</a>
 </p>
 
@@ -33,6 +34,10 @@ O Dynamic login screen é uma tela de login básica desenvolvida com as tecnolog
 ## 🔖 Layout
 
 Você pode visualizar o layout do projeto através [DESSE LINK](https://figma.com). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+
+## 🌐 Preview do Site
+
+Você pode conferir o site em funcionamento [AQUI](https://jeferson-brito.github.io/Dynamic-login-screen/).
 
 ## :memo: Licença
 
